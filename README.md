@@ -114,7 +114,7 @@ end
 
 ## 联系方式
 ```
-email: Keen_Team@163.com
+Email: Keen_Team@163.com
 
 QQ: 812144991
 ```
